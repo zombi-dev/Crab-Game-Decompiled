@@ -5,7 +5,7 @@ Join us on this adventure to decompile, unobfuscate, and remake Crab Game!
 We want Crab Game to be updated again, as **Dani moved on onto making Karlson and Crab Game stopped recieving updates**.
 
 # Status
-![Crab Game Decompiled Status](https://github.com/ThatCDdev/Crab-Game-Decompiled/blob/main/icon.png?raw=true)
+![Crab Game Decompiled Status](https://github.com/ThatCDdev/Crab-Game-Decompiled/blob/main/CurrentStatus.png?raw=true)
 
 # Details
 Original game editor version: 2020.3.21a0
