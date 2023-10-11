@@ -1,2 +1,1 @@
-# Crab-Game-Decompiled
-The Crab Game project where we decompile the game to actually revive it! (0% complete)
+![Crab Game Decompiled Logo](https://github.com/ThatCDdev/Crab-Game-Decompiled/blob/main/icon.png?raw=true)
