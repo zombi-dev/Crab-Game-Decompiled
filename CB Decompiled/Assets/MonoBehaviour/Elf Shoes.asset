@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Elf Shoes
+  m_EditorClassIdentifier:
+  itemdefid: 610
+  name: Elf Shoes
+  description: Stolen from an elf.
+  type: 4
+  rarity: 0
+  icon: {fileID: 2800000, guid: f1ba31d8c09f91e448bf959c0ada8195, type: 3}
+  mesh: {fileID: 4300000, guid: 3f92d362cbae6c74ebe03942cdd3193f, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 236772dc9de86104a83663820cf80d79, type: 2}
+  - {fileID: 2100000, guid: 4b8bda5dea2387d458c4eaeebf1212ef, type: 2}
+  - {fileID: 2100000, guid: 82210849e9e8fb940a9a7a56ea44f4ba, type: 2}
+  materialToChangeColorOn: 0
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

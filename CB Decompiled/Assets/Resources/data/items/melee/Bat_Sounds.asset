@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77834687c7aa5ca22716c060c3e785fc, type: 3}
+  m_Name: Bat_Sounds
+  m_EditorClassIdentifier:
+  use:
+  - {fileID: 8300000, guid: 88bc1077a6f74d4418ad6e13ba7f2953, type: 3}
+  equip:
+  - {fileID: 8300000, guid: f4746ac9d5be5ff439fc56e3afa62de7, type: 3}
+  reload: []
+  hit:
+  - {fileID: 8300000, guid: 2d174e0e6c1bfa845813916110915e1d, type: 3}
+  - {fileID: 8300000, guid: b982919cebcb57642b8f37b4352c22fb, type: 3}
+  - {fileID: 8300000, guid: 4429e4549cc32794c8d7f879fc7a8e4c, type: 3}

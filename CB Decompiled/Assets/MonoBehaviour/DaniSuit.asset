@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: DaniSuit
+  m_EditorClassIdentifier:
+  itemdefid: 801
+  name: Dani Suit
+  description: Exclusive juicer suit.
+  type: 7
+  rarity: 5
+  icon: {fileID: 2800000, guid: a8d171190ebbbd147b2098b5ccfd53d9, type: 3}
+  mesh: {fileID: 4300000, guid: 5b83eebcf4a10da4d848eef424b44945, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 4237c1ba9fef3734481b0266a65efd60, type: 2}
+  - {fileID: 2100000, guid: c6543355ba48a194295590b533b67cfd, type: 2}
+  - {fileID: 2100000, guid: bb0f2ec2fe2edcc44bb084d13412e489, type: 2}
+  materialToChangeColorOn: 0
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

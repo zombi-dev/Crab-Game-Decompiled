@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: RobinHood
+  m_EditorClassIdentifier:
+  itemdefid: 214
+  name: Robin Hood
+  description: Take from the rich and give to the poor. Except this hat is really rare, so you're part of the rich, you filthy hypocrite!
+  type: 2
+  rarity: 4
+  icon: {fileID: 2800000, guid: d801b35fe045c744cb50d4036bd6f700, type: 3}
+  mesh: {fileID: 4300000, guid: 0d1b7549d99212c43b6b7ae67ef908dc, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 9ec10a6d8024e304db4a85d4c5f8fb51, type: 2}
+  - {fileID: 2100000, guid: 62a8dc8802af586438952b90e6d8f94e, type: 2}
+  - {fileID: 2100000, guid: 89c7e71db59363a4eb476d8e22db0eac, type: 2}
+  materialToChangeColorOn: 1
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

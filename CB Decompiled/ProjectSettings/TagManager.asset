@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Local
+  - Weakpoint
+  - Damage1x
+  - Damage2x
+  - Damage0.75x
+  - Ignore
+  - Grass
+  - Ice
+  - IceButNotThatIcy
+  - WaterGround
+  - Water
+  - Foot
+  - Crab
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Object
+  - Player
+  - Interact
+  - Item
+  - PP
+  - ItemPOV
+  - Hurtbox
+  - DetectPlayer
+  - Proximity
+  - GroundOnly
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 272757887
+    locked: 0

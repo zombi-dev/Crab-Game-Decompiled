@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Facenask
+  m_EditorClassIdentifier:
+  itemdefid: 405
+  name: Facemask
+  description: Stay safe (and stylish at the same time).
+  type: 3
+  rarity: 1
+  icon: {fileID: 2800000, guid: 81bc71b1bcfc7cc4db428bc08b8b8ba6, type: 3}
+  mesh: {fileID: 4300000, guid: 2575a64f8ab81514987b719c59482729, type: 2}
+  materials:
+  - {fileID: 2100000, guid: df910d843b9d1654a981b606d00cbd01, type: 2}
+  materialToChangeColorOn: 0
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

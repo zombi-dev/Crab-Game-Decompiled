@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77834687c7aa5ca22716c060c3e785fc, type: 3}
+  m_Name: Shotgun_sfx
+  m_EditorClassIdentifier:
+  use:
+  - {fileID: 8300000, guid: 603d8dbf81adfb14da2812e5c30d3d32, type: 3}
+  equip:
+  - {fileID: 8300000, guid: fb78b1b963ef11947bc54b9de0c01468, type: 3}
+  reload: []
+  hit: []

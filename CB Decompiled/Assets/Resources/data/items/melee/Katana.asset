@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 227c7c2b03271b51da74f0290a78442e, type: 3}
+  m_Name: Katana
+  m_EditorClassIdentifier:
+  itemID: 3
+  objectID: 0
+  type: 2
+  itemPrefab: {fileID: 1300546123915477, guid: c007a3842d920b44a88c5f524674927a, type: 2}
+  icon: {fileID: 2800000, guid: 29626ccde22e13d4fadffd3b175a4d9d, type: 3}
+  iconBig: {fileID: 0}
+  itemName: Katana
+  currentAmmo: 0
+  maxAmmo: 0
+  ammoType: 0
+  reloadTime: 1
+  positionOffset: {x: 0.3, y: -0.35, z: 0.5}
+  rotationOffset: {x: 25, y: -10, z: 0}
+  onlinePositionOffset: {x: 0, y: -0.5, z: 0.2}
+  price: 0
+  gunComponent: {fileID: 11400000, guid: 1449e6a8aa013dd47817cefad2e39d3b, type: 2}
+  soundComponent: {fileID: 11400000, guid: cc91ad84b5b88364aaa63c4b20708507, type: 2}
+  damage: 0
+  canDrop: 1
+  instanced: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Detective Hat
+  m_EditorClassIdentifier:
+  itemdefid: 204
+  name: Detective Hat
+  description: Wearing this will increase my deduction skill by at least 20% i think.
+  type: 2
+  rarity: 1
+  icon: {fileID: 2800000, guid: 7bc1d09a5d233804bbe2fe679ad92075, type: 3}
+  mesh: {fileID: 4300000, guid: e1e8747868f10f6459e6f0fd3fba5a44, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 62a8dc8802af586438952b90e6d8f94e, type: 2}
+  - {fileID: 2100000, guid: 211c705ff93b2f7478270a96cdce2a4d, type: 2}
+  materialToChangeColorOn: 0
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

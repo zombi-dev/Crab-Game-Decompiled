@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Flat Top
+  m_EditorClassIdentifier:
+  itemdefid: 3
+  name: Flat Top
+  description: You could easily land a helicopter on top of this.
+  type: 1
+  rarity: 0
+  icon: {fileID: 2800000, guid: 42a23d410644e5443b98673bad5c91c3, type: 3}
+  mesh: {fileID: 4300000, guid: afeaef1339fd4e0459c485a54a115883, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 5e59b817bb0f13e4fb69f319d9f523cd, type: 2}
+  materialToChangeColorOn: 0
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0.51, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

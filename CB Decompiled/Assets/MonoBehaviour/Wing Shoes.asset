@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Wing Shoes
+  m_EditorClassIdentifier:
+  itemdefid: 609
+  name: Soaring Sneakers
+  description: Take you sneakers to a new dimension.. Literally!
+  type: 4
+  rarity: 4
+  icon: {fileID: 2800000, guid: c30e22798f35532458dc2f39f97c6f37, type: 3}
+  mesh: {fileID: 4300000, guid: ff7043828fc73804eabeea597d32e4f7, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 52b3d48fbb1631e438af2860eb514060, type: 2}
+  - {fileID: 2100000, guid: 159f70e7e0898d34f83899e3fac9c3d6, type: 2}
+  - {fileID: 2100000, guid: 8502f0f5ce48cfd408e3cfd365a452ba, type: 2}
+  - {fileID: 2100000, guid: 236772dc9de86104a83663820cf80d79, type: 2}
+  materialToChangeColorOn: 3
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

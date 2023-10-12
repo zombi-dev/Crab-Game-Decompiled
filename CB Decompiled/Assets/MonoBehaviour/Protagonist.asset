@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Protagonist
+  m_EditorClassIdentifier:
+  itemdefid: 12
+  name: Protagonist
+  description: Wearing this hair will make me look like the main character probably.
+  type: 1
+  rarity: 3
+  icon: {fileID: 2800000, guid: a41bd6876cad4db46a50a826baa17cd7, type: 3}
+  mesh: {fileID: 4300000, guid: 803a4d224ee08b34eb8a2ba371af5997, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 5e59b817bb0f13e4fb69f319d9f523cd, type: 2}
+  materialToChangeColorOn: 0
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0.5, z: -0.06}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Gucci Banana
+  m_EditorClassIdentifier:
+  itemdefid: 217
+  name: Gotci Banana
+  description: "The most fashionable banana I have ever seen, I should definitely put this on my head.\n\n<color=#C6E2FF><sprite=4 color=#C6E2FF>This is an exclusive Crab Store Item. Can <i>not</i> be found in crates.</color>"
+  type: 2
+  rarity: 6
+  icon: {fileID: 2800000, guid: 541d9ccfd4746cb4b9ec3d85e5ac5643, type: 3}
+  mesh: {fileID: 4300000, guid: bb7e7de89289830468bb2dd59eb6aa74, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 3669ce9d97d29bb4482567d481932be5, type: 2}
+  - {fileID: 2100000, guid: 211c705ff93b2f7478270a96cdce2a4d, type: 2}
+  materialToChangeColorOn: 0
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0.3, z: 0}
+  ignoreOffset: 0

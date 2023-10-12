@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a988ef1936bfc28eca5a2b44f151ff8f, type: 3}
+  m_Name: Stepping Glass
+  m_EditorClassIdentifier:
+  type: 3
+  musicType: 0
+  minPlayers: 0
+  maxPlayers: 256
+  longModeTime: 120
+  mediumModeTime: 90
+  shortModeTime: 60
+  modeTime: 140
+  waitForRoundOverToDeclareSoloWinner: 1
+  modeName: Stepping Stones
+  modeDescription: "• Skip across platforms to reach the other side\n\n• Some of the platforms are fragile, and can break\n\n• If a player doesn't make it to the other side in time, they will be eliminated"
+  compatibleMaps:
+  - {fileID: 11400000, guid: 6b72dda0a700fd241acef16670a69278, type: 2}
+  - {fileID: 11400000, guid: 095dcdda58d9e9f4b813e29319c2819e, type: 2}
+  - {fileID: 11400000, guid: e4010b9f1e85f3d4282bea636bf1d0e7, type: 2}
+  - {fileID: 11400000, guid: d8e4d919b57907d4bae5c7d20ad7c2f8, type: 2}
+  - {fileID: 11400000, guid: 963e89d868305794daf53b3ea4115c2f, type: 2}
+  - {fileID: 11400000, guid: 57cc5e568f18d554ead37585d375adcc, type: 2}
+  - {fileID: 11400000, guid: d39c20ec48e2d1142a23cb0f7dae3deb, type: 2}
+  - {fileID: 11400000, guid: c677edc1e1543d543928340423f4c872, type: 2}
+  largeMaps: []
+  mediumMaps: []
+  smallMaps: []
+  id: 3
+  isPlayable: 1
+  skipAsString: 0
+  bigOnlyMapPlayers: 100
+  bigAndMediumMapPlayers: 7
+  mediumAndSmallMapPlayers: 7
+  smallMapsOnlyPlayers: 6

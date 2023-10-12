@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Gasmask
+  m_EditorClassIdentifier:
+  itemdefid: 413
+  name: Gasmask
+  description: 2% practical use, 98% cool factor.
+  type: 3
+  rarity: 4
+  icon: {fileID: 2800000, guid: 23f456ba12c6fa443833499dfb52d0cf, type: 3}
+  mesh: {fileID: 4300000, guid: da958bec36b395e4f99735781cd531b8, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 7806ea855e58dae4982bea575b6b57bc, type: 2}
+  - {fileID: 2100000, guid: 1ad4ff58d3db358429803b7fee40a49a, type: 2}
+  - {fileID: 2100000, guid: bb0f2ec2fe2edcc44bb084d13412e489, type: 2}
+  - {fileID: 2100000, guid: fab4f944a7b80ba49be3e1b5419c82a7, type: 2}
+  materialToChangeColorOn: 0
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0
