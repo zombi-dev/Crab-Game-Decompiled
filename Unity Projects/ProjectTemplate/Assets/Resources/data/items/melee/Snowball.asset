@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 227c7c2b03271b51da74f0290a78442e, type: 3}
+  m_Name: Snowball
+  m_EditorClassIdentifier:
+  itemID: 9
+  objectID: 0
+  type: 3
+  itemPrefab: {fileID: 1201706776084017, guid: 61d1136e14657f64d9758d1b3c49bec6, type: 2}
+  icon: {fileID: 2800000, guid: b9761cf79cce8634cb44895c1bc0ad10, type: 3}
+  iconBig: {fileID: 0}
+  itemName: Snowball
+  currentAmmo: 1
+  maxAmmo: 1
+  ammoType: 0
+  reloadTime: 1
+  positionOffset: {x: 0, y: 0.1, z: 0}
+  rotationOffset: {x: 5, y: -25, z: 1}
+  onlinePositionOffset: {x: 0, y: 0, z: 0.2}
+  price: 0
+  gunComponent: {fileID: 11400000, guid: 31a4dc9f2cad8f2458106fc14740a8b4, type: 2}
+  soundComponent: {fileID: 11400000, guid: d5defbabf740e164db1be6f85386f285, type: 2}
+  damage: 0
+  canDrop: 0
+  instanced: 0

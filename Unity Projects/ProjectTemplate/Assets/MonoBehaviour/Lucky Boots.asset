@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Lucky Boots
+  m_EditorClassIdentifier:
+  itemdefid: 612
+  name: Lucky Boots
+  description: These boots are sure to bring good luck.
+  type: 4
+  rarity: 2
+  icon: {fileID: 2800000, guid: 865883b2cde7a954ebd6005c1915fee1, type: 3}
+  mesh: {fileID: 4300000, guid: 8f6e32b2f1c5b734fa15e7dbbe3794ac, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 5fb0c1a3167f475469e8ed488c94fd3f, type: 2}
+  - {fileID: 2100000, guid: 086c8008d06ebfd40a1443948fade6b1, type: 2}
+  - {fileID: 2100000, guid: 647bdb8037afa5f419b962ebe42f8d03, type: 2}
+  - {fileID: 2100000, guid: e4ac24a27fc7c094895c4403ad2e6415, type: 2}
+  materialToChangeColorOn: 1
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

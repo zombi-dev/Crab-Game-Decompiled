@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a988ef1936bfc28eca5a2b44f151ff8f, type: 3}
+  m_Name: Block Drop
+  m_EditorClassIdentifier:
+  type: 17
+  musicType: 3
+  minPlayers: 0
+  maxPlayers: 55
+  longModeTime: 110
+  mediumModeTime: 90
+  shortModeTime: 90
+  modeTime: 250
+  waitForRoundOverToDeclareSoloWinner: 1
+  modeName: Block Drop
+  modeDescription: "• Watch out for the falling blocks\n\n• Jump on the fallen blocks to keep highground\n\n• Be respectful, no pushing >=("
+  compatibleMaps:
+  - {fileID: 11400000, guid: cb792981018395c43890cae1f7c7073c, type: 2}
+  - {fileID: 11400000, guid: 7fabd793f54cabb43bf333da6355cdac, type: 2}
+  - {fileID: 11400000, guid: 56a0af4246787fe4694fbdcec5b54d29, type: 2}
+  largeMaps: []
+  mediumMaps: []
+  smallMaps: []
+  id: 15
+  isPlayable: 1
+  skipAsString: 0
+  bigOnlyMapPlayers: 100
+  bigAndMediumMapPlayers: 9
+  mediumAndSmallMapPlayers: 5
+  smallMapsOnlyPlayers: 4

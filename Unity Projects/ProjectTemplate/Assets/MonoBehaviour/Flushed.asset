@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Flushed
+  m_EditorClassIdentifier:
+  itemdefid: 407
+  name: Flushed
+  description: ':flushed:'
+  type: 3
+  rarity: 1
+  icon: {fileID: 2800000, guid: 3b4f3bb2a192b724fa3ebd89cef670d8, type: 3}
+  mesh: {fileID: 4300000, guid: 839e81e54bd7cbb4b869bfc5e0236e60, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 2c55c047eb37a694196eb988c8ecca19, type: 2}
+  materialToChangeColorOn: 0
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

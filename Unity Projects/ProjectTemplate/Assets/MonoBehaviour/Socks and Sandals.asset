@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Socks and Sandals
+  m_EditorClassIdentifier:
+  itemdefid: 606
+  name: Socks & Sandals
+  description: Socks in sandals is superior.
+  type: 4
+  rarity: 2
+  icon: {fileID: 2800000, guid: 8a945c088115b364c8810471a39a4c2f, type: 3}
+  mesh: {fileID: 4300000, guid: a8c4909eb8213a9448e867b0bd4daae6, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 71298748d87bf174ab3b3630c2c3460c, type: 2}
+  - {fileID: 2100000, guid: a6e2e5c57fdfc2a45b65f25d0b7d2f3d, type: 2}
+  - {fileID: 2100000, guid: 234c1ff5766d52f45927b5e5ef21cacf, type: 2}
+  materialToChangeColorOn: 1
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

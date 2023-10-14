@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Christmas Socks
+  m_EditorClassIdentifier:
+  itemdefid: 611
+  name: Christmas Socks
+  description: These look very comfy.
+  type: 4
+  rarity: 1
+  icon: {fileID: 2800000, guid: 10e85e8134195744cbaadb93cf7de2c4, type: 3}
+  mesh: {fileID: 4300000, guid: 6eb1c6a5ef1c2f242a1acfb7a2a279e0, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 4eea72b92a9e68740a15eac9f13bc6d2, type: 2}
+  - {fileID: 2100000, guid: e833c20282293bc4b95609079dbee692, type: 2}
+  materialToChangeColorOn: 0
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4df749dcf0cdcf6198176c97b73e5c7f, type: 3}
+  m_Name: Revolver_Recoil
+  m_EditorClassIdentifier:
+  automatic: 0
+  rpm: 200
+  accuracy: 0.03
+  bulletsPerShot: 1
+  recoilAmount: 40
+  recoilResetSpeed: 0.25
+  recoilPatternX:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: -0.0044636726
+      inSlope: 3.3397405
+      outSlope: 3.3397405
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.12133665
+    - serializedVersion: 3
+      time: 1
+      value: -0.0044636726
+      inSlope: 3.3286948
+      outSlope: 3.3286948
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.11634582
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  recoilPatternY:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  positionAndRotationRecoilVisuals: {x: 1.5, y: 3}
+  cameraShake: 7
+  maxDamage: 0
+  minDamage: 0
+  startFalloffDistance: 999
+  endFalloffDistance: 999
+  multiplierDamage: 1
+  pushOtherForce: 8
+  pushSelfForce: 8
+  sphereCast: 1
+  sphereRadius: 0.7

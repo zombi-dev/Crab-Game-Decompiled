@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 227c7c2b03271b51da74f0290a78442e, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier:
+  itemID: 1
+  objectID: 0
+  type: 1
+  itemPrefab: {fileID: 1621809416600718, guid: 25a598baa74a0814a9e0ab0179d27ec8, type: 2}
+  icon: {fileID: 2800000, guid: 27821bfffcdd0f94b98a32591034b355, type: 3}
+  iconBig: {fileID: 0}
+  itemName: Pistol
+  currentAmmo: 12
+  maxAmmo: 12
+  ammoType: 0
+  reloadTime: 1
+  positionOffset: {x: 0, y: 0.075, z: 0.1}
+  rotationOffset: {x: 0, y: 180, z: 0}
+  onlinePositionOffset: {x: -0.27, y: 0.13, z: 0.375}
+  price: 50
+  gunComponent: {fileID: 11400000, guid: 28e7d6f211aa80e4485a081315d5f85d, type: 2}
+  soundComponent: {fileID: 11400000, guid: c74f47f34fccff2499b0a2c9155d1302, type: 2}
+  damage: 15
+  canDrop: 1
+  instanced: 0

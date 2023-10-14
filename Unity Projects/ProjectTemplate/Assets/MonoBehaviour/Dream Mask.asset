@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Dream Mask
+  m_EditorClassIdentifier:
+  itemdefid: 415
+  name: Smile Mask
+  description: Smile!
+  type: 3
+  rarity: 5
+  icon: {fileID: 2800000, guid: 1fde8f0a1417cbf43a51ffde15a98ca8, type: 3}
+  mesh: {fileID: 4300000, guid: e429b93d1bb481a4eabb7159d2f8d6a0, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 360414e86a28c19439e82f4b9d4c7f32, type: 2}
+  - {fileID: 2100000, guid: 08b283a4b65c90845a7720bef3e1e816, type: 2}
+  materialToChangeColorOn: 0
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

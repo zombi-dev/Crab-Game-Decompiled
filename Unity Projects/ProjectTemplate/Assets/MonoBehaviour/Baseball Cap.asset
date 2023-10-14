@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Baseball Cap
+  m_EditorClassIdentifier:
+  itemdefid: 200
+  name: Baseball Cap
+  description: A hat used by baseball players only (not cool people).
+  type: 2
+  rarity: 0
+  icon: {fileID: 2800000, guid: be2dfac0935fa9c439ee3b107edee067, type: 3}
+  mesh: {fileID: 4300000, guid: 205cacb8370a0834b890fea22e8dc41b, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 086c8008d06ebfd40a1443948fade6b1, type: 2}
+  - {fileID: 2100000, guid: 80ee7e5eed9916c49a4659ac3863a06f, type: 2}
+  materialToChangeColorOn: 0
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

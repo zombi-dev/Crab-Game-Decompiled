@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Scarf
+  m_EditorClassIdentifier:
+  itemdefid: 418
+  name: Scarf
+  description: A warm and fluffy scarf.
+  type: 3
+  rarity: 1
+  icon: {fileID: 2800000, guid: bcc9266eaff1e0d4696f1ad69aecb31f, type: 3}
+  mesh: {fileID: 4300000, guid: b01c4f5b010c96143bbc9ddb11c1e436, type: 2}
+  materials:
+  - {fileID: 2100000, guid: f585bba6cb78cb148b342b92e356d243, type: 2}
+  materialToChangeColorOn: 0
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

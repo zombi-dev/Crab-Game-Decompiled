@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: Sunglasses
+  m_EditorClassIdentifier:
+  itemdefid: 410
+  name: Sunglasses
+  description: Protects against the sun, but its real purpose is to look cool.
+  type: 3
+  rarity: 2
+  icon: {fileID: 2800000, guid: 18f8363d21c85b1438157c39f2b70e48, type: 3}
+  mesh: {fileID: 4300000, guid: 49d426b9513c3ea49b5f8cdd24cb57d1, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 2c55c047eb37a694196eb988c8ecca19, type: 2}
+  - {fileID: 2100000, guid: 2815d29f727f74648b89281a76678da6, type: 2}
+  materialToChangeColorOn: 0
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

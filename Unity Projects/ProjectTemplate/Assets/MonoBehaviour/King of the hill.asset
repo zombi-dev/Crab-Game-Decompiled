@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a988ef1936bfc28eca5a2b44f151ff8f, type: 3}
+  m_Name: King of the hill
+  m_EditorClassIdentifier:
+  type: 9
+  musicType: 3
+  minPlayers: 5
+  maxPlayers: 256
+  longModeTime: 120
+  mediumModeTime: 80
+  shortModeTime: 60
+  modeTime: 120
+  waitForRoundOverToDeclareSoloWinner: 0
+  modeName: King of The Hill
+  modeDescription: "• Standing on the hill continuously grants you points\n\n• Hit other players off the hill with your B A T\n\n• When the time runs out, the players with lowest score are eliminated"
+  compatibleMaps:
+  - {fileID: 11400000, guid: ccffb6dd441532f4d8d7cc35f37096e2, type: 2}
+  - {fileID: 11400000, guid: f5851bc7f726c3b4a8830323e4e45048, type: 2}
+  - {fileID: 11400000, guid: 788d72dc85c5c2d4c8dec9915b331ed6, type: 2}
+  - {fileID: 11400000, guid: a558d56fe63d5874593e46af24c3f440, type: 2}
+  - {fileID: 11400000, guid: 6408deb31f3b28e41b9a710c2453b5b1, type: 2}
+  largeMaps: []
+  mediumMaps: []
+  smallMaps: []
+  id: 2
+  isPlayable: 1
+  skipAsString: 0
+  bigOnlyMapPlayers: 100
+  bigAndMediumMapPlayers: 8
+  mediumAndSmallMapPlayers: 8
+  smallMapsOnlyPlayers: 7

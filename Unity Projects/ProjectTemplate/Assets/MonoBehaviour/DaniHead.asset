@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace63bf3854780cb91546d8222d2e848, type: 3}
+  m_Name: DaniHead
+  m_EditorClassIdentifier:
+  itemdefid: 416
+  name: Dani Head
+  description: It's just a giant blue blob with glasses. That's stupid.
+  type: 3
+  rarity: 5
+  icon: {fileID: 2800000, guid: 00e84bd6cd0a61545b4f150f1f84c4b6, type: 3}
+  mesh: {fileID: 4300000, guid: c94f4f4963ff4f14695b6ecfabc946a4, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 2815d29f727f74648b89281a76678da6, type: 2}
+  - {fileID: 2100000, guid: a997393a0d26d4a40b5aac9c97c77a0e, type: 2}
+  materialToChangeColorOn: 0
+  exchangeItemDefId: 0
+  hatOffset: {x: 0, y: 0, z: 0}
+  hatThresholdBeforeOffset: {x: 0, y: 0, z: 0}
+  ignoreOffset: 0

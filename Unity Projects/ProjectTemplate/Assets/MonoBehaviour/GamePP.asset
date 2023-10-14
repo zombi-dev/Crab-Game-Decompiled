@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2099961501, guid: e161fae64b898bc22624d03ed611378f, type: 3}
+  m_Name: GamePP
+  m_EditorClassIdentifier:
+  settings:
+  - {fileID: 11400000, guid: 1856abb7377773946bcb307e4152f9de, type: 2}
+  - {fileID: 11400000, guid: fef3dcadf0c719745a18680e59ba10c1, type: 2}
+  - {fileID: 11400000, guid: f698c040c2a04614f9bf48d4d9083b2a, type: 2}
+  - {fileID: 11400000, guid: 2fd4b8aa3bf4a584c88e3c10e7190f6a, type: 2}
+  - {fileID: 11400000, guid: 5eddfb39b74f79347aa6ab11bf47e23f, type: 2}
